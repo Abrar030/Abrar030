@@ -1,57 +1,76 @@
-# Hi, I'm Shaik Abrar 👋
-
-**AI Engineer | Full Stack Developer (MERN) | Generative AI Specialist**
+<h1 align="center">Hi 👋, I'm Shaik Abrar</h1>
+<h3 align="center">AI Engineer | Full Stack Developer (MERN) | Generative AI Specialist</h3>
 
 ---
 
-🚀 Passionate about merging full-stack development and advanced AI to build intelligent, scalable solutions.  
-💡 Skilled in architecting web platforms (MERN Stack) and engineering deep learning, NLP, and multi-agent AI systems.  
-🌐 Deploying production-grade applications on AWS and Azure.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Scalable+AI+Solutions+🚀;MERN+Full+Stack+Developer+👨‍💻;Generative+AI+Specialist+🤖;Passionate+about+Deep+Learning+and+Cloud+Deployment+☁️" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🔥 Skills
 
-- **Languages:** Python, JavaScript, Java, C
-- **Web Development:** React.js, Node.js, Express.js, Next.js, MongoDB, PostgreSQL
-- **AI/ML & Deep Learning:** TensorFlow, PyTorch, Hugging Face Transformers, OpenCV, LangChain, LangGraph
-- **Cloud Platforms:** AWS, Azure
-- **Other Tools:** Git, Vercel, Bootstrap, Tailwind CSS
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Huggingface-FFD21F?style=for-the-badge&logo=hugging-face&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Projects
+## 🚀 Projects
 
-- [🔗 Candidate Filtering System (Generative AI)](https://github.com/Abrar030/Candidate-filtering-system-main)  
-  Multi-agent AI platform for automating resume screening with LLM pipelines.
-
-- [🔗 UAV GPS Spoofing Detection (Machine Learning)](https://github.com/Abrar030/UAV-spoofing)  
-  ML application to detect and prevent UAV GPS spoofing attacks.
-
-- [🔗 Shrimp Detection (Deep Learning)](https://github.com/Abrar030/Shrimp-Detection-)  
-  Instance segmentation of shrimps using Mask R-CNN and YOLOv8 for aquaculture analytics.
-
-- [🔗 E-commerce Web App (MERN Stack)](https://github.com/Abrar030/E-commerce)  
-  Full-featured e-commerce platform with user authentication, product management, and secure checkout flow.
-
-- [🔗 Food Delivery Platform (MERN Stack)](https://github.com/Abrar030/FoodDelivery-MERN)  
-  Real-time order tracking food delivery website with optimized performance.
+- [🔗 Candidate Filtering System (Generative AI)](https://github.com/Abrar030/Candidate-filtering-system-main)
+- [🔗 UAV GPS Spoofing Detection (Machine Learning)](https://github.com/Abrar030/UAV-spoofing)
+- [🔗 Shrimp Detection (Deep Learning)](https://github.com/Abrar030/Shrimp-Detection-)
+- [🔗 E-commerce Web App (MERN Stack)](https://github.com/Abrar030/E-commerce)
+- [🔗 Food Delivery Platform (MERN Stack)](https://github.com/Abrar030/FoodDelivery-MERN)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Abrar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abrar030&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar030&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abrar030&show_icons=true&theme=radical" alt="Abrar's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar030&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact Me
 
-- 📧 Email: shaikabrar946@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/abrar-shaik-b27018362)
-
----
-
-> "Building technology that solves real-world problems at scale." 🚀
-
+<p align="center">
+  <a href="mailto:shaikabrar946@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in
