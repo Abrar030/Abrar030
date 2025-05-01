@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Full Stack Developer (MERN) | Generative AI Specialist</h3>
 
 ---
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Generative+AI+Specialist+🤖;MERN+Full+Stack+Developer+👨‍💻;Passionate+about+Deep+Learning+and+Cloud+Deployment+☁️" alt="Typing SVG" />
 </p>
